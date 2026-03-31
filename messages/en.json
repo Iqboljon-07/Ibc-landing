@@ -1,7 +1,93 @@
 {
   "Index": {
-    "title": "International Business Centre",
-    "desc": "Modern offices, convenient infrastructure and a prestigious address in the capital center.",
+    "title": "International Business Center",
+    "desc": "Modern offices, convenient infrastructure and a prestigious address in the heart of the capital.",
     "batafsil": "Learn More"
+  },
+  "LocationSection": {
+    "title": "Our Location",
+    "description": "Tashkent City International Business Center is not just a modern office building, but an entire ecosystem created for business. In our center, you will find not only a workplace, but also high-level amenities, innovative technologies and a professional community.",
+    "addressTitle": "Address",
+    "addressLine1": "Republic of Uzbekistan, Tashkent city,",
+    "addressLine2": "Amir Temur Street, 109",
+    "contactTitle": "Contact",
+    "workingHours": "Working hours: Monday - Friday, 09:00 - 18:00",
+    "phone": "Phone: +998 (71) 203-00-00",
+    "ctaButton": "Get in Touch",
+    "mapTitle": "Tashkent City International Business Center"
+  },
+  
+  "ServicesSection": {
+    "title": "What we offer for you",
+    "officeRental": {
+      "title": "Office Space Rental",
+      "desc": "Modern and bright offices with all amenities."
+    },
+    "conferenceRooms": {
+      "title": "Conference Rooms",
+      "desc": "Fully equipped luxurious halls for your events."
+    },
+    "virtualOffice": {
+      "title": "Virtual Office Services",
+      "desc": "Providing an address for the official status of your business."
+    }
+  },
+  
+  "StatsSection": {
+    "experience": {
+      "number": "20+",
+      "label": "Лет опыта"
+    },
+    "tenants": {
+      "number": "150+",
+      "label": "Довольных арендаторов"
+    },
+    "space": {
+      "number": "10 000+",
+      "label": "Квадратных метров офиса"
+    },
+    "support": {
+      "number": "24/7",
+      "label": "Охрана и тех. поддержка"
+    }
+  },
+  
+  "VideoBioSection": {
+    "title": "Brief bio about the center",
+    "description": "The Open Joint Stock Company \"International Business Center\" is a modern facility located in the heart of our capital. We not only lease office spaces at a high standard, but also provide complete work infrastructure for the most demanding international companies.",
+    "features": {
+      "location": "Tashkent Center",
+      "security": "24/7 Security"
+    },
+    "ctaButton": "Get to know our history",
+    "videoTitle": "Video about International Business Center"
+  },
+  "WhyChooseUsSection": {
+    "title": "Why choose IBC?",
+    "subtitle": "The highest level of conditions have been created for the stability and peace of your business.",
+    "businessHome": {
+      "title": "Home of your success",
+      "desc": "The most prestigious and beautiful building for your business.",
+      "alt": "IBC Building"
+    },
+    "security": {
+      "title": "Systematic security",
+      "desc": "Access control, internal patrol and 24/7 protection by the National Guard of Uzbekistan.",
+      "alt": "Security system"
+    },
+    "conference": {
+      "title": "Spacious conference rooms",
+      "desc": "Fully equipped premium area for negotiations, meetings and events.",
+      "alt": "Conference room"
+    },
+    "parking": {
+      "title": "Underground parking",
+      "desc": "Spacious, secure and convenient parking area for you and your clients.",
+      "alt": "Parking"
+    }
   }
 }
+ 
+
+
+

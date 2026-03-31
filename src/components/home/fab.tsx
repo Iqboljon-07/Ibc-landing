@@ -20,7 +20,7 @@ export function Fab() {
   const router = useRouter();
   const pathname = usePathname();
 
-  const changeLanguage = (nextLocale) => {
+  const changeLanguage = (nextLocale: string) => {
     router.replace(pathname, {locale: nextLocale});
   };
 

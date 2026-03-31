@@ -1,7 +1,88 @@
 {
   "Index": {
     "title": "Xalqaro Biznes Markazi",
-    "desc": "Zamonaviy ofislar, qulay infratuzilma va poytaxt markazidagi nufuzli manzil.",
+    "desc": "Zamonaviy ofislar, qulay infratuzilma va poytaxt markazida nufuzli manzil.",
     "batafsil": "Batafsil"
+  },
+  "LocationSection": {
+    "title": "Bizning Manzilimiz",
+    "description": "Tashkent City Xalqaro Biznes Markazi — bu nafaqat zamonaviy ofis binosi, balki biznes uchun yaratilgan butun bir ekotizimdir. Bizning markazda siz nafaqat ish joyini, balki yuqori darajadagi qulayliklar, innovatsion texnologiyalar va professional hamjamiyatni topasiz.",
+    "addressTitle": "Manzil",
+    "addressLine1": "O'zbekiston Respublikasi, Toshkent shahri,",
+    "addressLine2": "Amir Temur shoh ko'chasi, 109",
+    "contactTitle": "Aloqa",
+    "workingHours": "Ish vaqti: Dushanba - Juma, 09:00 - 18:00",
+    "phone": "Telefon: +998 (71) 203-00-00",
+    "ctaButton": "Aloqaga Chiqish",
+    "mapTitle": "Tashkent City Xalqaro Biznes Markazi"
+  },
+
+  "ServicesSection": {
+    "title": "Siz uchun nimalar taqdim etamiz",
+    "officeRental": {
+      "title": "Ofis maydonlari ijarasi",
+      "desc": "Barcha qulayliklarga ega zamonaviy va yorug' ofislar."
+    },
+    "conferenceRooms": {
+      "title": "Konferens zallar",
+      "desc": "Tadbirlaringiz uchun to'liq jihozlangan muhtasham zallar."
+    },
+    "virtualOffice": {
+      "title": "Virtual ofis xizmatlari",
+      "desc": "Sizning biznesingiz rasmiyligi uchun manzil taqdim etish."
+    }
+  },
+
+  "StatsSection": {
+    "experience": {
+      "number": "20+",
+      "label": "Yillik tajriba"
+    },
+    "tenants": {
+      "number": "150+",
+      "label": "Mamnun ijarachilar"
+    },
+    "space": {
+      "number": "10 000+",
+      "label": "Kvadrat metr ofis"
+    },
+    "support": {
+      "number": "24/7",
+      "label": "Qo'riqlash va tex. yordam"
+    }
+  },
+  "VideoBioSection": {
+    "title": "Markaz haqida qisqacha bio",
+    "description": "\"Xalqaro Biznes Markazi\" ochiq aksiyadorlik jamiyati poytaxtimizning qon tomirida joylashgan zamonaviy inshootdir. Biz nafaqat ofis joylarini talab darajasida ijaraga beramiz, balki eng talabchan xalqaro kompaniyalar uchun to'liq ish infratuzilmasini ta'minlaymiz.",
+    "features": {
+      "location": "Toshkent markazi",
+      "security": "24/7 Xavfsizlik"
+    },
+    "ctaButton": "Tariximiz bilan tanishish",
+    "videoTitle": "Xalqaro Biznes Markazi haqida video"
+  },
+  "WhyChooseUsSection": {
+    "title": "Nima uchun IBC ni tanlashadi?",
+    "subtitle": "Sizning biznesingiz barqarorligi va osoyishtaligi uchun eng yuqori darajadagi sharoitlar yaratilgan.",
+    "businessHome": {
+      "title": "Muvaffaqiyatingiz maskani",
+      "desc": "Biznesingiz uchun eng nufuzli va ko'rkam bino.",
+      "alt": "IBC Maskan"
+    },
+    "security": {
+      "title": "Tizimli xavfsizlik",
+      "desc": "Kirish nazorati, ichki patrul va O'zbekiston Milliy gvardiyasi tomonidan 24/7 himoya.",
+      "alt": "Xavfsizlik tizimi"
+    },
+    "conference": {
+      "title": "Keng Konferens zallar",
+      "desc": "Muzokaralar, uchrashuvlar va tadbirlaringiz uchun to'liq jihozlangan premium hudud.",
+      "alt": "Konferens zal"
+    },
+    "parking": {
+      "title": "Yer osti to'xtash joyi",
+      "desc": "Siz va mijozlaringiz avtomobillari uchun keng, xavfsiz va qulay parking zonasi.",
+      "alt": "Parking"
+    }
   }
 }
